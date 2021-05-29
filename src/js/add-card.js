@@ -13,7 +13,7 @@ const fetchCountry = (searchEl) => {
       return Promise.reject('Fetch have not worked: error' + response.status);
     })
     .catch(err => {
-      alert(err);
+      console.log(err);
     });
 }
 
