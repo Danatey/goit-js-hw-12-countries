@@ -1,0 +1,19 @@
+.hero-phrase {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.search-container {
+  display: flex;
+  justify-content: center;
+}
+.input-container {
+  padding: 5px 10px;
+  border-radius: 10px;
+  border: 2px solid yellow;
+}
+.button-clear {
+  background-color: $primary-color;
+  border-radius: 10px;
+  color: $accent-color;
+}
