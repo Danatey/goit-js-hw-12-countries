@@ -3,21 +3,21 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://danatey.github.io/goit-js-hw-11-timer",
+  "homepage": "https://danatey.github.io/goit-js-hw-12-countries",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11-timer/",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-12-countries/",
     "deploy": "node --version"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Danatey/goit-js-hw-11-timer"
+    "url": "git+https://github.com/Danatey/goit-js-hw-12-countries"
   },
   "keywords": [],
   "author": "Danil Prokhorchuk <danatey40793@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Danatey/goit-js-hw-11-timer"
+    "url": "https://github.com/Danatey/goit-js-hw-12-countries"
   },
   "devDependencies": {
     "gh-pages": "^3.1.0",
