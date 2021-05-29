@@ -76,5 +76,4 @@ function clearQuery() {
 }
 
 refs.searchInput.addEventListener('input', debounce(onSearch, 500));
-console.log(refs.countryContainer)
 refs.clearButton.addEventListener('click', clearQuery);
